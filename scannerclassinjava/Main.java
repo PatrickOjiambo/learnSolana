@@ -15,10 +15,10 @@ public class Main {
         Scanner input = new Scanner(System.in);
         //Program will pause for the user to enter some text.
         System.out.println(input.nextInt());
-        input.nextInt();
-        input.next();
-        input.nextBoolean();
-        input.nextByte();
-        input.nextLine();
+        // input.nextInt();
+        // input.next();
+        // input.nextBoolean();
+        // input.nextByte();
+        // input.nextLine();
     }
 }
