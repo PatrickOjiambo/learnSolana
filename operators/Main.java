@@ -20,6 +20,15 @@ public class Main {
         //decrement opeartor --
         --i1;
         //Can be further subdived into pot and pre.
+        //Division operator
+        /**
+         * diving int by int gives int
+         * dividing double by double gives double
+         * dividing int by double gives double
+         * dividing float by float gives float
+         * dividing integers by double gives double
+         * dividing floats and doubles gives double
+         */
 
 
 
