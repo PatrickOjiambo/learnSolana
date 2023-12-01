@@ -22,4 +22,23 @@ public class Main {
             System.out.println(numbers[i] + " ");
         }
 }
+
+public static void part2(String[] args) {
+    /**
+     * Anonymous arrays - arrays that are not assigned to a variable.
+     * e.g new int[]{1,2,3,4,5};
+     * Arrays are passed to methods by refernce
+     * Returning arrays from methods.
+     * Arrays are objects.
+     * Arrays are passed by reference.
+     * Arrays are mutable.
+     * 
+     */
+  
+}
+  //Retruning arrays from methods.
+    public static int[] getNumbers(){
+        int[] numbers = {1,2,3,4,5};
+        return numbers;
+    }
 }
