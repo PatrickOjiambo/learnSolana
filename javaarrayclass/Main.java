@@ -13,5 +13,10 @@ public class Main {
         int index = java.util.Arrays.binarySearch(numbers2, 3);
         System.out.println(index);
         //The arrays should be sorted before searching.
+
+        //Comparing arrays.
+        int numbers3[] = {1,2,3,4,5};
+        int numbers4[] = {1,2,3,4,5};
+        System.out.println(java.util.Arrays.equals(numbers3, numbers4));
     }
 }
