@@ -1,0 +1,23 @@
+Number	Company Name				Past Five-Day Share Price	Overall	Maximum	Minimum	Mean	Products
+1	Shell                	2572	2575	2516	2533	2620	2572.0	2620	2516	2563.3	"Oil and Gas"
+2	Hsbc holdings plc    	637	642	642	649	651	642.3	651	637	644.6	"finance"
+3	uniliver plc         	4042	4038	4029	4031	3929	4031.0	4042	3929	4013.9	"groceries and personal products"
+4	lloyds banking group 	43	42	42	42	42	42.5	43	42	42.5	"finance"
+5	vodafone group plc   	76	75	75	76	75	75.6	76	75	75.8	"network and service provider"
+6	standard chatered plc	750	745	746	754	752	750.6	754	745	749.7	"finance"
+7	sse plc              	1546	1500	1517	1519	1521	1519.5	1546	1500	1520.8	"gas and electricity"
+8	rolls royce holdings 	216	210	211	211	207	211.1	216	207	211.3	"engines and parts for aerospace"
+9	coca-cola hbc ag     	52	54	54	52	52	53.0	54	52	53.4	"non-alcoholic beverages"
+10	burberrygroup plc    	1807	1815	1821	1839	1810	1815.0	1839	1807	1818.6	"luxury goods"
+11	jd sports fashion    	139	144	144	140	140	140.5	144	139	141.7	"clothing"
+12	j sainsbury plc      	247	247	254	257	249	249.2	257	247	251.3	"groceries and personal products"
+13	kingfisher plc       	214	211	212	215	215	214.4	215	211	213.7	"house development"
+14	abrdn plc            	154	153	154	155	157	154.2	157	153	154.8	"finance"
+15	airtel africa plc    	126	119	119	119	119	119.4	126	119	120.7	"network and service provider"
+16	fraser group plc     	809	786	779	813	816	809.0	816	779	800.8	"sports wear
+
+STATISTICAL
+There are 16 companies.
+The company with the highest share price across the past 5 days was uniliver plc  with a score of 4042.
+Share Price:     4038 	3929 	4042 	4029 	4031
+Frequency:       1	 1	 1	 1	 1	

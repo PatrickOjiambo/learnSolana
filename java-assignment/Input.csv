@@ -1,0 +1,17 @@
+CompanyNumber,Company,HeadQuarters,Day1,Day2,Day3,Day4,Day5,"Ranking,ProductsOrServices",
+001,Shell ,london,2572,2575,2516.5,2533.24,2620,2,Oil and Gas
+002,Hsbc holdings plc,london,637.8,642.3,642,649.6,651.4,3,finance
+003,uniliver plc,london,4042,4038,4029,4031,3929.5,4,groceries and personal products
+004,lloyds banking group plc ,edinburgh,43.04,42.45,42.52,42.18,42.31,21,finance
+005,vodafone group plc ,berkshire,76.65,75.6,75.45,76.26,75.25,28,network and service provider
+006,standard chatered plc,london,750.6,745,746,754.6,752.4,29,finance
+007,sse plc ,perth,1546,1500,1517.5,1519.5,1521,27,gas and electricity
+008,rolls royce holdings plc,london,216,210,211.8,211.1,207.5,37,engines and parts for aerospace
+009,coca-cola hbc ag,atlanta,52.51,54.89,54.79,52.02,52.95,49,non-alcoholic beverages
+010,burberrygroup plc,london,1807.5,1815,1821,1839,1810.5,52,luxury goods
+011,jd sports fashion plc,bury,139.2,144.4,144.05,140.5,140.5,54,clothing
+012,j sainsbury plc,london,247.6,247.9,254.7,257.1,249.2,65,groceries and personal products
+013,kingfisher plc,westminister,214.4,211.1,212.7,215.3,215.2,81,house development
+014,abrdn plc,edinburgh,154.15,153,154,155.5,157.35,85,finance
+015,airtel africa plc,lagos,126,119.4,119,119.7,119.2,89,network and service provider
+016,fraser group plc,shirebrook,809,786,779.5,813.5,816,99,"sports wear, clothing"
